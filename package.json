@@ -1,0 +1,22 @@
+{
+  "name": "kin",
+  "version": "1.0.0",
+  "description": "Expediente clínico para pacientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpc91/kin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcpc91/kin/issues"
+  },
+  "homepage": "https://github.com/jcpc91/kin#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
